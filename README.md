@@ -6,6 +6,12 @@ But I wanted to make a simple DIGI (WSPR, FT8) receiver. This modification works
 
 More information - https://ra0sms.com/picorx-digi-modes
 
+Firmware for 3 type of boards - https://github.com/ra0sms/picorx_digi/tree/main/firmware
+
+Gerber files - https://github.com/ra0sms/picorx_digi/blob/main/KiCad/pico_rx/gerber_picorxdigi.zip
+
+More pictures - https://github.com/ra0sms/picorx_digi/tree/main/pics
+
 ![1](pics/1.jpg)
 
 ## Settings
@@ -23,4 +29,5 @@ Or if you use FLrig software
 Now you can see decodes.
 
 ![1](pics/wsjt_rx_example.jpg)
+
 
