@@ -2,7 +2,7 @@
 
 This is a clone of Jon Dawson's project [PicoRX SDR](https://github.com/dawsonjon/PicoRX).
 
-But I wanted to make a simple DIGI (WSPR, FT8) receiver. This modification works with PC and WSJT-X software by one USB Type-C cable.
+But I wanted to make a simple DIGI (WSPR, FT8) receiver. This modification works with PC and WSJT-X software by one USB Type-C cable. 3.5 mm audio output is just for sound control. Audio from receiver to PC goes through USB connection.
 
 More information - https://ra0sms.com/picorx-digi-modes
 
@@ -29,5 +29,6 @@ Or if you use FLrig software
 Now you can see decodes.
 
 ![1](pics/wsjt_rx_example.jpg)
+
 
 
